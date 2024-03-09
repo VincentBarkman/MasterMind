@@ -53,11 +53,12 @@ def display_board(attempts, max_attempts):
 
 def main():
     code_length = 4
-    max_attempts = code_length + 2
+    max_attempts = 14
     code = generate_code(COLORS, code_length)
 
     attempts = []
 
+    os.system('cls' if os.name == 'nt' else 'clear')
     print("\033[1mWelcome to Mastermind!\033[0m\n")
     print("Available colors:", " ".join(
         [color["code"] for color in COLORS.values()]), "\n")

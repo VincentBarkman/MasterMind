@@ -11,17 +11,17 @@ Welcome to the Colorful Mastermind Game! This Python-based game is a fun and cha
 ### Installation
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourgithubusername/colorful-mastermind.git
+git clone https://github.com/vincentbarkman/mastermind.git
 ```
 
 Navigate to the game directory:
 ```bash
-cd colorful-mastermind
+cd mastermind
 ```
 
 Run the game:
 ```bash
-python mastermind.py
+python main.py
 ```
 
 ## 🎮 How to Play

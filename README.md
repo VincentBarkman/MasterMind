@@ -1,7 +1,7 @@
 # 🌈 Mastermind Game
 
 ## 📖 Overview
-Welcome to the Colorful Mastermind Game! This Python-based game is a fun and challenging way to test your logic and deduction skills. Players must guess the correct sequence of colors within a limited number of attempts. Each guess provides feedback to help you narrow down the correct color combination. Ready to put your problem-solving skills to the test?
+Welcome to the Mastermind Game! This Python-based game is a fun and challenging way to test your logic and deduction skills. Players must guess the correct sequence of colors within a limited number of attempts. Each guess provides feedback to help you narrow down the correct color combination. Ready to put your problem-solving skills to the test?
 
 ## 🚀 Getting Started
 
